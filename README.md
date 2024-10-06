@@ -1,13 +1,14 @@
 # Brute-Force-Simulator
-Implementation of an brute-force algorithm.
+This is one of my first projects in cybersecurity that I developed to deepen my knowledge and gain practical experience. This bruteforce-simulator is a basic, console-based implementation in Python. I welcome your feedback and comments for improvement as well as tips to help me develop the project further.
 
-1. [Implemented Features](#Implemented-Features)
+1. [Implemented Features](#implemented-features)
 2. [Installation](#installation)
 3. [Contributing](#contributing)
 4. [License](#license)
 5. [Credits](#credits)
+6. [Disclaimer](#disclaimer)
 
-## Implemented functions
+## Implemented Features
 - 
 
 ### Project status
@@ -20,11 +21,7 @@ Implementation of an brute-force algorithm.
 ### Installation Steps
 Clone the repository
 ```bash
-git clone https://github.com/sp8cky/Brute-Force-Simulator
-```
-Navigate into the directory
-```bash
-cd your-project
+git clone https://github.com/sp8cky/Brute-Force-Simulator && Brute-Force-Simulator
 ```
 Install dependencies
 ```bash
@@ -41,8 +38,12 @@ pip install -r requirements.txt
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
-## Credits:
-- This project was created by sp8cky.
+## Credits
+This project was created by sp8cky.
 
-## License:
-- This project is licensed under the MIT-License. See the LICENSE file for details.
+## License
+This project is licensed under the MIT-License. See the LICENSE file for details.
+
+## Disclaimer
+This project is for educational purposes only and is provided as is. Use it at your own risk. I take no responsibility for any damages or problems that may arise from the use of the bruteforce-simulator.
+
