@@ -18,17 +18,17 @@ Implementation of an brute-force algorithm.
 
 ## Installation
 ### Installation Steps
-
+Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/sp8cky/Brute-Force-Simulator
-
-# Navigate into the directory
+```
+Navigate into the directory
+```bash
 cd your-project
-
-# Install dependencies
+```
+Install dependencies
+```bash
 pip install -r requirements.txt
-
 ```
 
 ## Contributing
